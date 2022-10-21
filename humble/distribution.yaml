@@ -8,7 +8,7 @@ release_platforms:
   rhel:
   - '8'
   ubuntu:
-  - jammy
+  - bionic
 repositories:
   SMACC2:
     doc:
